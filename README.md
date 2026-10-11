@@ -209,7 +209,6 @@ This project provides practical experience in:
 
 A YouTube tutorial was used as a learning reference while developing this Packet Tracer project. The university and department labels were adapted for this version of the topology.
 
-Reference tutorial: https://www.youtube.com/watch?v=qIbhkmTB8Q8
 
 This project is intended for educational and portfolio demonstration purposes.
 
