@@ -205,9 +205,7 @@ This project provides practical experience in:
 * Verifying routes and troubleshooting network connectivity.
 * Considering network scalability, reliability, and security.
 
-## Reference and Acknowledgment
-
-A YouTube tutorial was used as a learning reference while developing this Packet Tracer project. The university and department labels were adapted for this version of the topology.
+## Acknowledgment
 
 
 This project is intended for educational and portfolio demonstration purposes.
